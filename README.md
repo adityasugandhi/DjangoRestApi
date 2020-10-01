@@ -9,3 +9,4 @@ Serialization that supports both ORM and non-ORM data sources.
 Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
 Extensive documentation, and great community support.
 Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
+
